@@ -8,11 +8,11 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.energy</groupId>
-	<artifactId>users</artifactId>
+	<groupId>com.communityfarm</groupId>
+	<artifactId>communityfarm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Energy users</name>
-	<description>Energy users microsservice</description>
+	<name>Horta Comunitaria</name>
+	<description>Horta Comunitaria</description>
 
 	<properties>
 		<java.version>11</java.version>

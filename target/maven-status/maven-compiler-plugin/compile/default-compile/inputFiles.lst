@@ -1,0 +1,11 @@
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/exception/Messages.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/controller/HealthCheckController.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/service/UserService.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/controller/UserController.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/model/User.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/EnergyUsersApplication.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/exception/ControllerAdvisor.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/repository/UserRepository.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/model/DigitalCard.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/model/UserInfo.java
+/home/danielquevedo/Workplace/Energy/energy-users/src/main/java/com/energy/users/model/UserLogin.java
